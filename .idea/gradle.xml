@@ -9,6 +9,8 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/003_1" />
+            <option value="$PROJECT_DIR$/004_1_basicviews" />
+            <option value="$PROJECT_DIR$/005_1_layoutfiles" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
