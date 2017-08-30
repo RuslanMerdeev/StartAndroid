@@ -11,6 +11,17 @@
             <option value="$PROJECT_DIR$/003_1" />
             <option value="$PROJECT_DIR$/004_1_basicviews" />
             <option value="$PROJECT_DIR$/005_1_layoutfiles" />
+            <option value="$PROJECT_DIR$/006_1_layouts" />
+            <option value="$PROJECT_DIR$/007_2_layoutprop" />
+            <option value="$PROJECT_DIR$/008_1_viewbyid" />
+            <option value="$PROJECT_DIR$/009_1_onclickbuttons" />
+            <option value="$PROJECT_DIR$/010_1_listener" />
+            <option value="$PROJECT_DIR$/010_2_activitylistener" />
+            <option value="$PROJECT_DIR$/010_3_layoutlistener" />
+            <option value="$PROJECT_DIR$/011_1_resvalues" />
+            <option value="$PROJECT_DIR$/012_1_logandmess" />
+            <option value="$PROJECT_DIR$/013_1_menusimple" />
+            <option value="$PROJECT_DIR$/014_1_menuadv" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

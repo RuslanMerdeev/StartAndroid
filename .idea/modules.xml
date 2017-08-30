@@ -5,6 +5,17 @@
       <module fileurl="file://$PROJECT_DIR$/003_1/003_1.iml" filepath="$PROJECT_DIR$/003_1/003_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/004_1_basicviews/004_1_basicviews.iml" filepath="$PROJECT_DIR$/004_1_basicviews/004_1_basicviews.iml" />
       <module fileurl="file://$PROJECT_DIR$/005_1_layoutfiles/005_1_layoutfiles.iml" filepath="$PROJECT_DIR$/005_1_layoutfiles/005_1_layoutfiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/006_1_layouts/006_1_layouts.iml" filepath="$PROJECT_DIR$/006_1_layouts/006_1_layouts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/007_2_layoutprop/007_2_layoutprop.iml" filepath="$PROJECT_DIR$/007_2_layoutprop/007_2_layoutprop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/008_1_viewbyid/008_1_viewbyid.iml" filepath="$PROJECT_DIR$/008_1_viewbyid/008_1_viewbyid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/009_1_onclickbuttons/009_1_onclickbuttons.iml" filepath="$PROJECT_DIR$/009_1_onclickbuttons/009_1_onclickbuttons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/010_1_listener/010_1_listener.iml" filepath="$PROJECT_DIR$/010_1_listener/010_1_listener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/010_2_activitylistener/010_2_activitylistener.iml" filepath="$PROJECT_DIR$/010_2_activitylistener/010_2_activitylistener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/010_3_layoutlistener/010_3_layoutlistener.iml" filepath="$PROJECT_DIR$/010_3_layoutlistener/010_3_layoutlistener.iml" />
+      <module fileurl="file://$PROJECT_DIR$/011_1_resvalues/011_1_resvalues.iml" filepath="$PROJECT_DIR$/011_1_resvalues/011_1_resvalues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/012_1_logandmess/012_1_logandmess.iml" filepath="$PROJECT_DIR$/012_1_logandmess/012_1_logandmess.iml" />
+      <module fileurl="file://$PROJECT_DIR$/013_1_menusimple/013_1_menusimple.iml" filepath="$PROJECT_DIR$/013_1_menusimple/013_1_menusimple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/014_1_menuadv/014_1_menuadv.iml" filepath="$PROJECT_DIR$/014_1_menuadv/014_1_menuadv.iml" />
       <module fileurl="file://$PROJECT_DIR$/StartAndroid.iml" filepath="$PROJECT_DIR$/StartAndroid.iml" />
     </modules>
   </component>
