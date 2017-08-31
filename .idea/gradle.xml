@@ -22,6 +22,9 @@
             <option value="$PROJECT_DIR$/012_1_logandmess" />
             <option value="$PROJECT_DIR$/013_1_menusimple" />
             <option value="$PROJECT_DIR$/014_1_menuadv" />
+            <option value="$PROJECT_DIR$/014_2_menuadv" />
+            <option value="$PROJECT_DIR$/015_1_contextmenu" />
+            <option value="$PROJECT_DIR$/015_2_contextmenu" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

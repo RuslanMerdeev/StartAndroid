@@ -16,6 +16,9 @@
       <module fileurl="file://$PROJECT_DIR$/012_1_logandmess/012_1_logandmess.iml" filepath="$PROJECT_DIR$/012_1_logandmess/012_1_logandmess.iml" />
       <module fileurl="file://$PROJECT_DIR$/013_1_menusimple/013_1_menusimple.iml" filepath="$PROJECT_DIR$/013_1_menusimple/013_1_menusimple.iml" />
       <module fileurl="file://$PROJECT_DIR$/014_1_menuadv/014_1_menuadv.iml" filepath="$PROJECT_DIR$/014_1_menuadv/014_1_menuadv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/014_2_menuadv/014_2_menuadv.iml" filepath="$PROJECT_DIR$/014_2_menuadv/014_2_menuadv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/015_1_contextmenu/015_1_contextmenu.iml" filepath="$PROJECT_DIR$/015_1_contextmenu/015_1_contextmenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/015_2_contextmenu/015_2_contextmenu.iml" filepath="$PROJECT_DIR$/015_2_contextmenu/015_2_contextmenu.iml" />
       <module fileurl="file://$PROJECT_DIR$/StartAndroid.iml" filepath="$PROJECT_DIR$/StartAndroid.iml" />
     </modules>
   </component>
