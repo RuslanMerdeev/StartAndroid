@@ -25,6 +25,11 @@
             <option value="$PROJECT_DIR$/014_2_menuadv" />
             <option value="$PROJECT_DIR$/015_1_contextmenu" />
             <option value="$PROJECT_DIR$/015_2_contextmenu" />
+            <option value="$PROJECT_DIR$/016_1_dynamiclayout" />
+            <option value="$PROJECT_DIR$/017_1_dynamiclayout2" />
+            <option value="$PROJECT_DIR$/018_1_dynamiclayout3" />
+            <option value="$PROJECT_DIR$/019_1_simplecalculator" />
+            <option value="$PROJECT_DIR$/020_1_simpleanimation" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

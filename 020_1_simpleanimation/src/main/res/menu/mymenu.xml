@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="alpha"
+        android:id="@+id/menu_alpha"></item>
+    <item
+        android:title="scale"
+        android:id="@+id/menu_scale"></item>
+    <item
+        android:title="translate"
+        android:id="@+id/menu_translate"></item>
+    <item
+        android:title="rotate"
+        android:id="@+id/menu_rotate"></item>
+    <item
+        android:title="combo"
+        android:id="@+id/menu_combo"></item>
+</menu>

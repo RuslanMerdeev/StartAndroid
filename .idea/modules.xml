@@ -19,6 +19,11 @@
       <module fileurl="file://$PROJECT_DIR$/014_2_menuadv/014_2_menuadv.iml" filepath="$PROJECT_DIR$/014_2_menuadv/014_2_menuadv.iml" />
       <module fileurl="file://$PROJECT_DIR$/015_1_contextmenu/015_1_contextmenu.iml" filepath="$PROJECT_DIR$/015_1_contextmenu/015_1_contextmenu.iml" />
       <module fileurl="file://$PROJECT_DIR$/015_2_contextmenu/015_2_contextmenu.iml" filepath="$PROJECT_DIR$/015_2_contextmenu/015_2_contextmenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/016_1_dynamiclayout/016_1_dynamiclayout.iml" filepath="$PROJECT_DIR$/016_1_dynamiclayout/016_1_dynamiclayout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/017_1_dynamiclayout2/017_1_dynamiclayout2.iml" filepath="$PROJECT_DIR$/017_1_dynamiclayout2/017_1_dynamiclayout2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/018_1_dynamiclayout3/018_1_dynamiclayout3.iml" filepath="$PROJECT_DIR$/018_1_dynamiclayout3/018_1_dynamiclayout3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/019_1_simplecalculator/019_1_simplecalculator.iml" filepath="$PROJECT_DIR$/019_1_simplecalculator/019_1_simplecalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/020_1_simpleanimation/020_1_simpleanimation.iml" filepath="$PROJECT_DIR$/020_1_simpleanimation/020_1_simpleanimation.iml" />
       <module fileurl="file://$PROJECT_DIR$/StartAndroid.iml" filepath="$PROJECT_DIR$/StartAndroid.iml" />
     </modules>
   </component>
