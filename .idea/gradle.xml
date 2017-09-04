@@ -30,6 +30,10 @@
             <option value="$PROJECT_DIR$/018_1_dynamiclayout3" />
             <option value="$PROJECT_DIR$/019_1_simplecalculator" />
             <option value="$PROJECT_DIR$/020_1_simpleanimation" />
+            <option value="$PROJECT_DIR$/021_1_twoactivity" />
+            <option value="$PROJECT_DIR$/023_1_oneactivitystate" />
+            <option value="$PROJECT_DIR$/024_1_twoactivitystate" />
+            <option value="$PROJECT_DIR$/026_1_intentfilter" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

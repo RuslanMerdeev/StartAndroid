@@ -24,6 +24,10 @@
       <module fileurl="file://$PROJECT_DIR$/018_1_dynamiclayout3/018_1_dynamiclayout3.iml" filepath="$PROJECT_DIR$/018_1_dynamiclayout3/018_1_dynamiclayout3.iml" />
       <module fileurl="file://$PROJECT_DIR$/019_1_simplecalculator/019_1_simplecalculator.iml" filepath="$PROJECT_DIR$/019_1_simplecalculator/019_1_simplecalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/020_1_simpleanimation/020_1_simpleanimation.iml" filepath="$PROJECT_DIR$/020_1_simpleanimation/020_1_simpleanimation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/021_1_twoactivity/021_1_twoactivity.iml" filepath="$PROJECT_DIR$/021_1_twoactivity/021_1_twoactivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/023_1_oneactivitystate/023_1_oneactivitystate.iml" filepath="$PROJECT_DIR$/023_1_oneactivitystate/023_1_oneactivitystate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/024_1_twoactivitystate/024_1_twoactivitystate.iml" filepath="$PROJECT_DIR$/024_1_twoactivitystate/024_1_twoactivitystate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/026_1_intentfilter/026_1_intentfilter.iml" filepath="$PROJECT_DIR$/026_1_intentfilter/026_1_intentfilter.iml" />
       <module fileurl="file://$PROJECT_DIR$/StartAndroid.iml" filepath="$PROJECT_DIR$/StartAndroid.iml" />
     </modules>
   </component>
