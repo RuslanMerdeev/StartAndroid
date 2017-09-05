@@ -28,6 +28,9 @@
       <module fileurl="file://$PROJECT_DIR$/023_1_oneactivitystate/023_1_oneactivitystate.iml" filepath="$PROJECT_DIR$/023_1_oneactivitystate/023_1_oneactivitystate.iml" />
       <module fileurl="file://$PROJECT_DIR$/024_1_twoactivitystate/024_1_twoactivitystate.iml" filepath="$PROJECT_DIR$/024_1_twoactivitystate/024_1_twoactivitystate.iml" />
       <module fileurl="file://$PROJECT_DIR$/026_1_intentfilter/026_1_intentfilter.iml" filepath="$PROJECT_DIR$/026_1_intentfilter/026_1_intentfilter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/027_1_getintentaction/027_1_getintentaction.iml" filepath="$PROJECT_DIR$/027_1_getintentaction/027_1_getintentaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/028_1_intentextras/028_1_intentextras.iml" filepath="$PROJECT_DIR$/028_1_intentextras/028_1_intentextras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/029_1_simpleactivityresult/029_1_simpleactivityresult.iml" filepath="$PROJECT_DIR$/029_1_simpleactivityresult/029_1_simpleactivityresult.iml" />
       <module fileurl="file://$PROJECT_DIR$/StartAndroid.iml" filepath="$PROJECT_DIR$/StartAndroid.iml" />
     </modules>
   </component>
