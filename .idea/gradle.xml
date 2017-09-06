@@ -37,6 +37,9 @@
             <option value="$PROJECT_DIR$/027_1_getintentaction" />
             <option value="$PROJECT_DIR$/028_1_intentextras" />
             <option value="$PROJECT_DIR$/029_1_simpleactivityresult" />
+            <option value="$PROJECT_DIR$/030_1_activityresult" />
+            <option value="$PROJECT_DIR$/031_1_simpleintents" />
+            <option value="$PROJECT_DIR$/032_1_simplebrowser" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

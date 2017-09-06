@@ -31,6 +31,9 @@
       <module fileurl="file://$PROJECT_DIR$/027_1_getintentaction/027_1_getintentaction.iml" filepath="$PROJECT_DIR$/027_1_getintentaction/027_1_getintentaction.iml" />
       <module fileurl="file://$PROJECT_DIR$/028_1_intentextras/028_1_intentextras.iml" filepath="$PROJECT_DIR$/028_1_intentextras/028_1_intentextras.iml" />
       <module fileurl="file://$PROJECT_DIR$/029_1_simpleactivityresult/029_1_simpleactivityresult.iml" filepath="$PROJECT_DIR$/029_1_simpleactivityresult/029_1_simpleactivityresult.iml" />
+      <module fileurl="file://$PROJECT_DIR$/030_1_activityresult/030_1_activityresult.iml" filepath="$PROJECT_DIR$/030_1_activityresult/030_1_activityresult.iml" />
+      <module fileurl="file://$PROJECT_DIR$/031_1_simpleintents/031_1_simpleintents.iml" filepath="$PROJECT_DIR$/031_1_simpleintents/031_1_simpleintents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/032_1_simplebrowser/032_1_simplebrowser.iml" filepath="$PROJECT_DIR$/032_1_simplebrowser/032_1_simplebrowser.iml" />
       <module fileurl="file://$PROJECT_DIR$/StartAndroid.iml" filepath="$PROJECT_DIR$/StartAndroid.iml" />
     </modules>
   </component>
