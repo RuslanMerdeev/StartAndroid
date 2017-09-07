@@ -40,6 +40,8 @@
             <option value="$PROJECT_DIR$/030_1_activityresult" />
             <option value="$PROJECT_DIR$/031_1_simpleintents" />
             <option value="$PROJECT_DIR$/032_1_simplebrowser" />
+            <option value="$PROJECT_DIR$/033_1_sharedpreferences" />
+            <option value="$PROJECT_DIR$/034_1_simplesqlite" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
