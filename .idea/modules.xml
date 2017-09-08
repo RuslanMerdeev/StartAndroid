@@ -36,6 +36,9 @@
       <module fileurl="file://$PROJECT_DIR$/032_1_simplebrowser/032_1_simplebrowser.iml" filepath="$PROJECT_DIR$/032_1_simplebrowser/032_1_simplebrowser.iml" />
       <module fileurl="file://$PROJECT_DIR$/033_1_sharedpreferences/033_1_sharedpreferences.iml" filepath="$PROJECT_DIR$/033_1_sharedpreferences/033_1_sharedpreferences.iml" />
       <module fileurl="file://$PROJECT_DIR$/034_1_simplesqlite/034_1_simplesqlite.iml" filepath="$PROJECT_DIR$/034_1_simplesqlite/034_1_simplesqlite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/034_2_simplesqlite/034_2_simplesqlite.iml" filepath="$PROJECT_DIR$/034_2_simplesqlite/034_2_simplesqlite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/036_1_sqlitequery/036_1_sqlitequery.iml" filepath="$PROJECT_DIR$/036_1_sqlitequery/036_1_sqlitequery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/037_1_sqliteinnerjoin/037_1_sqliteinnerjoin.iml" filepath="$PROJECT_DIR$/037_1_sqliteinnerjoin/037_1_sqliteinnerjoin.iml" />
       <module fileurl="file://$PROJECT_DIR$/StartAndroid.iml" filepath="$PROJECT_DIR$/StartAndroid.iml" />
     </modules>
   </component>
