@@ -45,6 +45,8 @@
             <option value="$PROJECT_DIR$/034_2_simplesqlite" />
             <option value="$PROJECT_DIR$/036_1_sqlitequery" />
             <option value="$PROJECT_DIR$/037_1_sqliteinnerjoin" />
+            <option value="$PROJECT_DIR$/038_1_sqlitetransaction" />
+            <option value="$PROJECT_DIR$/039_1_sqliteonupgradedb" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
